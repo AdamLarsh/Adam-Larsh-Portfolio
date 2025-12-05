@@ -4,6 +4,7 @@ header
   display: flex;
   padding-left: 10%;
   color:white;
+  margin: 0 15px;
 }
 
 header h1
@@ -27,5 +28,24 @@ nav a
   font-weight: bold;
 }
 
+footer a
+{
+  padding-left:20px;
+  text-decoration: none;
+  font-family: "Lora", serif;
+  font-size: 18px;
+  color:white;
+  font-weight: bold;
+}
+
+footer
+{
+  font-size: 18px;
+  background-image: linear-gradient(to right, #202020 50%, #000000);
+  display: flex;
+  padding-left: 10%;
+  color:white;
+  margin: 0 15px;
+}
 
 
